@@ -2,8 +2,6 @@
 """Module for task 0 how many subs"""
 
 
-def number_of_subscribers(subreddit):
-    """Queries the Reddit API"""
 import requests
 
 
