@@ -1,3 +1,4 @@
+![404-error-web-template-with-funny-monster_23-2147788958](https://github.com/user-attachments/assets/198955f3-d17d-4064-a698-46467022c1d4)
 Postmortem: Website Outage on 2024-07-22
 Issue Summary
 Duration: 2 hours and 15 minutes (12:45 PM EAT - 3:00 PM EAT)
